@@ -1,0 +1,3 @@
+this is a test text file that I'm going to change using the online version in the browser, so that I can check if a "git pull" will work on the repository the way I have it set up on my local computer in the office.  I have the Git Desktop installed, and used THAT tool to clone the repo from here at first.  Now I want to see if I can set up a script using the existing repo structure, even though I didn't "git clone" from the git command line, since that will speed things up enormously.
+
+and that's the name of that tune............
